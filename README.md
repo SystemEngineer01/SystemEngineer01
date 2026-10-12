@@ -46,8 +46,21 @@
 
 ## 📊 Estadísticas de GitHub
 
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SystemEngineer01&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas de GitHub" />
+  <!-- Tarjeta 1: Estadísticas Generales -->
+  <img src="https://github-stats-extended.vercel.app/api?username=SystemEngineer01&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas generales" height="165" />
+
+  <!-- Tarjeta 2: Lenguajes Más Usados -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SystemEngineer01&layout=compact&theme=highcontrast" alt="Lenguajes más usados" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Tarjeta 3: Racha de Commits (GitHub Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SystemEngineer01&theme=highcontrast" alt="Racha de contribuciones" height="165" />
 </div>
 
 ---
