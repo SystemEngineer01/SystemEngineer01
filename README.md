@@ -46,8 +46,6 @@
 
 ## 📊 Estadísticas de GitHub
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
   <!-- Tarjeta 1: Estadísticas Generales -->
   <img src="https://github-stats-extended.vercel.app/api?username=SystemEngineer01&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas generales" height="165" />
@@ -64,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SystemEngineer01&color=brightgreen&style=flat-square&label=Visitas+al+Perfil" alt="Contador de Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SystemEngineer01.SystemEngineer01" alt="Contador de Visitas" />
 </div>
 ---
 
