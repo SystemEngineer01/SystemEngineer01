@@ -47,8 +47,7 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SystemEngineer01&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SystemEngineer01&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=TU_USUARIO&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas de GitHub" />
 </div>
 
 ---
