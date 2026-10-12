@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mauricio Ventura 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy **Desarrollador/a Web / Software** centrado/a en construir aplicaciones funcionales, eficientes y con un diseño intuitivo. Me apasiona aprender constantemente nuevas tecnologías y resolver problemas del mundo real a través del código.
+¡Bienvenido/a a mi perfil de GitHub! Soy **Desarrollador Web / Software** centrado en construir aplicaciones funcionales, eficientes y con un diseño intuitivo. Me apasiona aprender constantemente nuevas tecnologías y resolver problemas del mundo real a través del código.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🎓 **Rol actual:** Desarrollador/a buscando nuevas oportunidades y proyectos desafiantes.
 - 💻 **Enfoque técnico:** Desarrollo web full-stack, arquitecturas limpias y código mantenible.
-- 🛠️ **Actualmente trabajando en:** [Sistema Ecomerce].
+- 🛠️ **Actualmente trabajando en:** [Sistema Ecomerce - proyecto personal].
 - 🎯 **Objetivo:** Seguir creciendo como profesional y aportar valor en proyectos colaborativos.
 
 ---
