@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=SystemEngineer01.SystemEngineer01" alt="Contador de Visitas](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=chartreuse-dark)" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SystemEngineer01&layout=donut&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SystemEngineer01&layout=donut&langs_count=5&theme=chartreuse-dark" />
 </div>
 ---
 
