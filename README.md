@@ -47,7 +47,7 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TU_USUARIO&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SystemEngineer01&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Estadísticas de GitHub" />
 </div>
 
 ---
