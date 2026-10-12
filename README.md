@@ -64,6 +64,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SystemEngineer01.SystemEngineer01" alt="Contador de Visitas" />
 </div>
+
+<div align="center">
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=SystemEngineer01.SystemEngineer01" alt="Contador de Visitas](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=chartreuse-dark)" />
+</div>
 ---
 
 ## 📫 ¡Conectemos!
@@ -71,5 +75,4 @@
 - **Youtube:** [www.youtube.com/@CodeV-w5v](https://www.youtube.com/@CodeV-w5v)
 - **Portafolio:** [vcode2027.vercel.app](https://vcode2027.vercel.app)
 - **Email:** reservado
-
 ---
